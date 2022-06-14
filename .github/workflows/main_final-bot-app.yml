@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'final-bot-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0541CD44CDB344959554BA01BC71D5BD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2A348AB934D0496D9EFD78FECE5602EF }}
           package: '*.jar'
